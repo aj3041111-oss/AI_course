@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 2ec03126df2bec23e798fcc451c65befd00f298a jain <aj3041111@gmail.com> 1792840341 +0530	commit (initial): Prepare project for deployment
+2ec03126df2bec23e798fcc451c65befd00f298a 2ec03126df2bec23e798fcc451c65befd00f298a jain <aj3041111@gmail.com> 1792840353 +0530	Branch: renamed refs/heads/main to refs/heads/main
+2ec03126df2bec23e798fcc451c65befd00f298a 2aefcd412c9f0fea10c886e416ba388501a3fdc7 jain <aj3041111@gmail.com> 1792842234 +0530	commit: Update frontend
+2aefcd412c9f0fea10c886e416ba388501a3fdc7 dda6f191fc24b2f5c3566c6e2ca013c13f2236b8 jain <aj3041111@gmail.com> 1792842486 +0530	commit: Stop tracking frontend environment files
+dda6f191fc24b2f5c3566c6e2ca013c13f2236b8 2ec03126df2bec23e798fcc451c65befd00f298a jain <aj3041111@gmail.com> 1792842600 +0530	reset: moving to origin/main
+2ec03126df2bec23e798fcc451c65befd00f298a 2390a99dea13cfe1b2b0ba50b7bb56e7c111a695 jain <aj3041111@gmail.com> 1792842617 +0530	commit: Update frontend and clean environment files
+2390a99dea13cfe1b2b0ba50b7bb56e7c111a695 2ec03126df2bec23e798fcc451c65befd00f298a jain <aj3041111@gmail.com> 1792842677 +0530	reset: moving to origin/main
+2ec03126df2bec23e798fcc451c65befd00f298a 8dfd484a43220fba67a2143bb8c11453cc4062ae jain <aj3041111@gmail.com> 1792842711 +0530	commit: Update frontend without credentials
